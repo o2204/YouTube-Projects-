@@ -20,7 +20,7 @@ A simple and interactive web application built using *Streamlit* to predict the 
   <img src="https://img.icons8.com/windows/24/1A73E8/kaggle.png" alt="Kaggle" />
   <a href="https://www.kaggle.com/code/omaratef200/iris-classification-acc-97" target="_blank">View on Kaggle</a>
 </p>
----
+------
 
 ## 📁 Project Structure
 IRIS_Project/
