@@ -5,7 +5,7 @@ Each folder represents a separate project, with source code and instructions to 
 
 ---
 
-## 🎬 Project List
+## Project List
 
 | #   | Project Name              | YouTube Link                          |
 |-----|---------------------------|----------------------------------------|
@@ -32,18 +32,28 @@ You can clone this repository and explore each project individually.
 
 ---
 
-## Follow Me
-
-[![YouTube](https://img.icons8.com/ios-filled/30/000000/youtube-play.png)]()
-&emsp;
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/o2204)
-&emsp;
-[![LinkedIn](https://img.icons8.com/ios-filled/30/000000/linkedin.png)](https://www.linkedin.com/in/o2204)
-&emsp;
-[![Kaggle](https://img.icons8.com/windows/30/000000/kaggle.png)](https://www.kaggle.com/omaratef200)
-
 ---
 
-> Made with ❤ by Omar Atef
+## Follow Me
+
+<p align="left">
+  <a href="https://www.youtube.com/@your_channel" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/youtube-play.png" alt="YouTube"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/o2204" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub"/>
+  </a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/o2204" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &emsp;
+  <a href="https://www.kaggle.com/omaratef200" target="_blank">
+    <img src="https://img.icons8.com/windows/30/ffffff/kaggle.png" alt="Kaggle"/>
+  </a>
+</p>
+
+---
 
 > Made with ❤ by Omar Atef
