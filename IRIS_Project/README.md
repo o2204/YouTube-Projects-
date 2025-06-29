@@ -8,7 +8,7 @@ A simple and interactive web application built using *Streamlit* to predict the 
 - Petal Width
 
 ---
-## 🎬 Project Links
+## Project Links
 
 <p align="left">
   <img src="https://img.icons8.com/ios-filled/24/fa314a/youtube-play.png" alt="YouTube" />
@@ -17,14 +17,11 @@ A simple and interactive web application built using *Streamlit* to predict the 
 
 <p align="left">
   <img src="https://img.icons8.com/windows/24/1A73E8/kaggle.png" alt="Kaggle" />
-  <a href="https://www.kaggle.com/code/YOUR_KAGGLE_USERNAME/iris-flower-app" target="_blank">View on Kaggle</a>
+  <a href="https://www.kaggle.com/code/omaratef200/iris-classification-acc-97" target="_blank">View on Kaggle</a>
 </p>
----
-
+--- 
 ##  Demo
-
  You can try the app locally by following the instructions below.
-
 ---
 
 ## How to Run Locally
@@ -41,13 +38,13 @@ streamlit run app.py
 ```
 ## 📁 Project Structure
 IRIS_Project/
-├── app.py                     # Main Streamlit app
-├── controller/
-│   ├── LoadModel.py           # Function to load ML model
-│   └── GetPrediction.py       # Function to make predictions
-├── model/
-│   └── iris_model.pkl         # Pre-trained ML model
-└── README.md                  # This file
+- ├── app.py                     # Main Streamlit app
+- ├── controller/
+- │   ├── LoadModel.py           # Function to load ML model
+- │   └── GetPrediction.py       # Function to make predictions
+- ├── model/
+- │   └── iris_model.pkl         # Pre-trained ML model
+- └── README.md                  # This file
 
 ---
 <p align="left">
@@ -68,6 +65,4 @@ IRIS_Project/
   </a>
 </p>
 ---
-
-
 | Made with ❤ by Omar Atef
