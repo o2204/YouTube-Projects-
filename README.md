@@ -10,9 +10,9 @@ Each folder represents a separate project, with source code and instructions to 
 | #   | Project Name              | YouTube Link                          |
 |-----|---------------------------|----------------------------------------|
 | 01  | 🌸 Iris Flower Predictor  | [Soon]() |
-| 02  | 🤖 Chatbot with Streamlit | [Watch Video]() |
-| 03  | 🎥 Face Detection         | [Watch Video]() |
-| 04  | 🌦 Weather Dashboard     | [Watch Video]() |
+| 02  | 🤖 Chatbot with Streamlit | [Soon]() |
+| 03  | 🎥 Face Detection         | [Soon]() |
+| 04  | 🌦 Weather Dashboard       | [Soon]() |
 
 ---
 
