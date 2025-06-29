@@ -24,13 +24,13 @@ A simple and interactive web application built using *Streamlit* to predict the 
 
 ## 📁 Project Structure
 IRIS_Project/
-- ├── app.py                     # Main Streamlit app
+- ├── app.py                       # Main Streamlit app
 - ├── controller/
-- │   ├── LoadModel.py           # Function to load ML model
-- │   └── GetPrediction.py       # Function to make predictions
+- │   ├── LoadModel.py             # Function to load ML model
+- │   └── GetPrediction.py         # Function to make predictions
 - ├── model/
-- │   └── iris_model.pkl         # Pre-trained ML model
-- └── README.md                  # This file
+- │   └── iris_model.pkl           # Pre-trained ML model
+- └── README.md                    # This file
 
 ---
 <p align="left">
