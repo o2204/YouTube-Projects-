@@ -32,12 +32,18 @@ You can clone this repository and explore each project individually.
 
 ---
 
-## 📺 Follow Me
+## Follow Me
 
-- 🔗 [YouTube Channel](https://www.youtube.com/@your_channel)
-- 🐙 [GitHub](https://github.com/o2204)
-- 💼 [LinkedIn](https://www.linkedin.com/in/omar-atef)
+[![YouTube](https://img.icons8.com/ios-filled/30/000000/youtube-play.png)](https://www.youtube.com/@your_channel)
+&emsp;
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/o2204)
+&emsp;
+[![LinkedIn](https://img.icons8.com/ios-filled/30/000000/linkedin.png)](https://www.linkedin.com/in/omar-atef)
+&emsp;
+[![Kaggle](https://img.icons8.com/windows/30/000000/kaggle.png)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
 
 ---
+
+> Made with ❤ by Omar Atef
 
 > Made with ❤ by Omar Atef
