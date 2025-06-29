@@ -32,7 +32,6 @@ You can clone this repository and explore each project individually.
 
 ---
 
----
 
 ## Follow Me
 
