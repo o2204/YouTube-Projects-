@@ -20,22 +20,7 @@ A simple and interactive web application built using *Streamlit* to predict the 
   <a href="https://www.kaggle.com/code/omaratef200/iris-classification-acc-97" target="_blank">View on Kaggle</a>
 </p>
 --- 
-##  Demo
- You can try the app locally by following the instructions below.
----
 
-## How to Run Locally
-
-1. *Clone the repository:*
-
-```bash
-git clone https://github.com/o2204/omar-youtube-projects.git
-cd omar-youtube-projects/iris-flower-app
-```
-2. *Run the app:*
-```bash
-streamlit run app.py
-```
 ## 📁 Project Structure
 IRIS_Project/
 - ├── app.py                     # Main Streamlit app
@@ -64,5 +49,7 @@ IRIS_Project/
     <img src="https://img.icons8.com/windows/30/ffffff/kaggle.png" alt="Kaggle"/>
   </a>
 </p>
+
 ---
+
 | Made with ❤ by Omar Atef
