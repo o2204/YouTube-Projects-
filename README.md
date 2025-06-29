@@ -36,7 +36,7 @@ You can clone this repository and explore each project individually.
 ## Follow Me
 
 <p align="left">
-  <a href="https://www.youtube.com/@your_channel" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/ffffff/youtube-play.png" alt="YouTube"/>
   </a>
   &emsp;
