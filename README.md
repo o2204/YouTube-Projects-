@@ -22,7 +22,7 @@ Each project is in its own folder with all the necessary code.
 
 Example:
 
--/iris-flower-app
+/iris-flower-app
 - ├── app.py
 - ├── model/
 - ├── controller/
