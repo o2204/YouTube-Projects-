@@ -13,7 +13,7 @@ A simple and interactive web application built using *Streamlit* to predict the 
 
 <p align="left">
   <img src="https://img.icons8.com/ios-filled/24/fa314a/youtube-play.png" alt="YouTube" />
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_LINK" target="_blank">Watch on YouTube</a>
+  <a href="https://youtu.be/AYq4FVWhhqg" target="_blank">Watch on YouTube</a>
 </p>
 
 <p align="left">
