@@ -19,7 +19,7 @@ This app uses a trained Machine Learning model and processes various medical par
 
 ---
 
-## 📽 Project Links
+## Project Links
 
 <p align="left">
   <img src="https://img.icons8.com/ios-filled/24/fa314a/youtube-play.png" alt="YouTube" />
@@ -33,7 +33,7 @@ This app uses a trained Machine Learning model and processes various medical par
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 Heart_Disease_Project/
 ├── app.py                          # Main Streamlit application      
@@ -43,12 +43,12 @@ Heart_Disease_Project/
 
 --- 
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- Python 🐍
-- Streamlit 📊
-- Scikit-learn 🤖
-- Pandas / NumPy 📈
+- Python 
+- Streamlit 
+- Scikit-learn 
+- Pandas / NumPy 
 
 ---
 
