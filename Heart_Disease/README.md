@@ -36,9 +36,13 @@ This app uses a trained Machine Learning model and processes various medical par
 ## Project Structure
 
 Heart_Disease_Project/
-├── app.py                          # Main Streamlit application      
+
+├── app.py                          # Main Streamlit application  
+
 ├── Heart Disease.pkl               # Trained ML model (RandomForest, SVM, etc.)
+
 ├── heart.csv                       # The data
+
 └── README.md                       # This file
 
 --- 
