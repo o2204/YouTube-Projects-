@@ -10,7 +10,7 @@ Each folder represents a separate project, with source code and instructions to 
 | #   | Project Name              | YouTube Link                          |
 |-----|---------------------------|----------------------------------------|
 | 01  |  Iris Flower Predictor  | [Watch](https://youtu.be/AYq4FVWhhqg?si=tRKEBg3e1-waBwuU) |
-| 02  |  Heart Disease  | [Watch]() |
+| 02  |  Heart Disease  | [Watch](https://youtu.be/V544TatSqoA) |
 | 03  |  Face Detection         | [Soon]() |
 | 04  |  Weather Dashboard       | [Soon]() |
 
