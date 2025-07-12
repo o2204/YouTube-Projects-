@@ -23,7 +23,7 @@ This app uses a trained Machine Learning model and processes various medical par
 
 <p align="left">
   <img src="https://img.icons8.com/ios-filled/24/fa314a/youtube-play.png" alt="YouTube" />
-  <a href="" target="_blank">Watch on YouTube</a>
+  <a href="https://youtu.be/V544TatSqoA" target="_blank">Watch on YouTube</a>
 </p>
 
 <p align="left">
